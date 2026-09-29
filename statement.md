@@ -2,7 +2,8 @@ Statement
 
 Problem Statement
 
-Converting decimal numbers to alternative positional numbering systems is a foundational computer science concept, yet learners frequently rely on built-in conversion utilities without grasping the underlying arithmetic mechanisms. This project addresses that learning gap by implementing a custom, from-scratch positional conversion system using repeated division and modulus operations, completely bypassing language-level built-ins such as `bin()`, `oct()`, or `hex()`.
+Converting decimal numbers to alternative positional numbering systems is a foundational computer science concept, yet learners frequently rely on built-in conversion utilities without grasping the underlying arithmetic mechanisms. 
+This project addresses that learning gap by implementing a custom, from-scratch positional conversion system using repeated division and modulus operations, completely bypassing language-level built-ins such as `bin()`, `oct()`, or `hex()`
 
 Scope of the Project 
 
@@ -18,7 +19,7 @@ Novice Python Developers : Programmers studying clean project modularity (separa
 
 High-Level Features
 
-Repeated Division Algorithm : Converts positive integers and zero using remainder indexing against the symbol set `0123456789ABCDEF`.
+Repeated Division Algorithm : Converts positive integers and zero using remainder indexing against the symbol set `0123456789ABCDEF`
 Standard Base Conversions   : Automatically computes and displays the binary, octal, and hexadecimal equivalents of the user's input
 Custom Base Conversion      : Allows dynamic calculation for any selected base between 2 and 16
 Robust Input Validation     : Traps non-integer entries and out-of-range base inputs using `try-except` blocks and repeatedly prompts the user until valid inputs are provided
