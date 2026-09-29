@@ -1,6 +1,6 @@
 NUMBER SYSTEM CONVERTER
 
-A beginner-friendly Python project that converts a non-negative decimal integer into binary, octal, hexadecimal, and any user-selected base from 2 to 16.
+A beginner-friendly Python project that converts a non-negative integer into binary, octal, hexadecimal, and any user-selected base from 2 to 16.
 
 FEATURES
 
