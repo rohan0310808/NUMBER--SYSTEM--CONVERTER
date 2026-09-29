@@ -44,7 +44,7 @@ SCREENSHOTS
 
 Screenshots
 
-Example 01 With Non Negative Decimal Number 54
+Example 01 With Non Negative Integer "54"
 
 
 <img width="541" height="189" alt="Screenshot 2026-09-29 215528" src="https://github.com/user-attachments/assets/5b51d7d6-c2ff-4952-b33d-5539af22f855" />
@@ -52,7 +52,7 @@ Example 01 With Non Negative Decimal Number 54
 
 
 
-example 02 With Non Negative Decimal Number 25
+example 02 With Non Negative Integer "25"
 
 
 <img width="532" height="189" alt="Screenshot 2026-09-29 214707" src="https://github.com/user-attachments/assets/c42f622c-1595-412e-8324-811db94e7800" />
