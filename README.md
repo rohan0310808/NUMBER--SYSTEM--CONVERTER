@@ -8,9 +8,6 @@ Features
 - Decimal to octal conversion
 - Decimal to hexadecimal conversion
 - Custom base conversion from 2 to 16
-- Uses repeated division
-- Basic input validation
-- Modular file structure
 
 Project Structure
 
