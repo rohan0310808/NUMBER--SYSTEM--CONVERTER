@@ -1,15 +1,15 @@
-Number System Converter
+NUMBER SYSTEM CONVERTER
 
 A beginner-friendly Python project that converts a non-negative decimal integer into binary, octal, hexadecimal, and any user-selected base from 2 to 16.
 
-Features
+FEATURES
 
 - Decimal to binary conversion
 - Decimal to octal conversion
 - Decimal to hexadecimal conversion
 - Custom base conversion from 2 to 16
 
-Project Structure
+PROJECT FEATURES
 
 - `main.py` - Main program controller
 - `converter.py` - Number conversion logic
@@ -17,7 +17,7 @@ Project Structure
 - `config.py` - Program settings
 - `requirements.txt` - External dependencies
 
-How to Run
+HOW TO RUN
 
 Make sure Python is installed, then run:
 
@@ -25,7 +25,7 @@ Make sure Python is installed, then run:
 python main.py
 ```
 
-Example
+EXAMPLE
 
 ```text
 Enter a non-negative decimal number: 25
@@ -40,7 +40,7 @@ Enter a base between 2 and 16: 5
 Base 5 : 100
 ```
 
-Screenshots
+SCREENSHOTS
 
 ```Screenshots
 
