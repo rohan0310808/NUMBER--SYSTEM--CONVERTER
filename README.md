@@ -52,7 +52,8 @@ Example 01 With Non Negative Integer "54"
 
 
 
-example 02 With Non Negative Integer "25"
+
+Example 02 With Non Negative Integer "25"
 
 
 <img width="532" height="189" alt="Screenshot 2026-09-29 214707" src="https://github.com/user-attachments/assets/c42f622c-1595-412e-8324-811db94e7800" />
