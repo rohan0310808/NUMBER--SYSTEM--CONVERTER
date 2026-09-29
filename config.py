@@ -1,6 +1,3 @@
-# Program settings
-
 MIN_BASE = 2
 MAX_BASE = 16
-
 DIGITS = "0123456789ABCDEF"
