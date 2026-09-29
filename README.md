@@ -19,7 +19,6 @@ Project Structure
 - `validation.py` - Input validation
 - `config.py` - Program settings
 - `requirements.txt` - External dependencies
-- `.gitignore` - Git ignored files
 
 How to Run
 
