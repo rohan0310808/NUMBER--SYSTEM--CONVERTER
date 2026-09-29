@@ -1,7 +1,7 @@
 def get_number():
     while True:
         try:
-            number = int(input("Enter a non-negative decimal number: "))
+            number = int(input("Enter a non-negative integer: "))
 
             if number >= 0:
                 return number
