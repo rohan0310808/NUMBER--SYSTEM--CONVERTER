@@ -43,14 +43,15 @@ Base 5 : 100
 SCREENSHOTS
 
 Screenshots
-example 01
+Example 01 With Non Negative Decimal Number 54
 
 
-<img width="259" height="183" alt="Screenshot 2026-09-29 214656" src="https://github.com/user-attachments/assets/4d8d2bb6-c41e-4035-9a92-05469b0f4cde" />
+<img width="541" height="189" alt="Screenshot 2026-09-29 215528" src="https://github.com/user-attachments/assets/5b51d7d6-c2ff-4952-b33d-5539af22f855" />
 
 
 
-example 02
+
+example 02 With Non Negative Decimal Number 25
 
 
 <img width="532" height="189" alt="Screenshot 2026-09-29 214707" src="https://github.com/user-attachments/assets/c42f622c-1595-412e-8324-811db94e7800" />
